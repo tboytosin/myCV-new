@@ -1,0 +1,63 @@
+/* projects css file */
+
+.project{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.project-cards{
+    margin: 0 20px 0 20px;
+    height: 28rem;
+    width: 18rem;
+
+}
+
+.card-image{
+    min-width: 285px;
+    max-width: 285px;
+    padding: 10px;
+}
+
+.Bootcamp-btn{
+    border-radius: 5px;
+	background-color: #006D77;
+	color: #FFFFFF;
+	margin-top: 70px;
+	padding: 10px 18px 10px 18px;
+	text-decoration: none;
+
+}
+.Bootcamp-btn:hover{
+    color:#80ffdb; 
+	transition: 0.3s;
+}
+
+.ecommerce-btn{
+    border-radius: 5px;
+	background-color: #006D77;
+	color: #FFFFFF;
+	margin-top: 40px;
+	padding: 10px 18px 10px 18px;
+	text-decoration: none;
+}
+
+.ecommerce-btn:hover{
+    color:#80ffdb; 
+	transition: 0.3s;
+}
+.farmers-btn{
+    border-radius: 5px;
+	background-color: #006D77;
+	color: #FFFFFF;
+	margin-top: 40px;
+	padding: 10px 18px 10px 18px;
+	text-decoration: none;
+}
+.farmers-btn:hover{
+    color:#80ffdb; 
+	transition: 0.3s;
+}
+.bootcamp{
+    margin-top: 65px;
+}

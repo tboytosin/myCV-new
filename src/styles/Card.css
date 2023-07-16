@@ -1,0 +1,11 @@
+/*card css file*/
+
+.card{
+	border: 0;
+}
+.card-content{
+	margin: 0;
+}
+ul{
+	/*list-style-type: none;*/
+}

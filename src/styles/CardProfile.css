@@ -1,0 +1,46 @@
+/*card profile css*/
+
+.profile_details {
+	/*padding: 3px;*/
+	
+}
+
+.Name{
+	text-align: center;
+	text-decoration-style:  bold;
+}
+
+.cv-button{
+	border-radius: 5px;
+	background-color: #006D77;
+	color: #FFFFFF;
+	margin-left: 40px;
+	padding: 10px 18px 10px 18px;
+	text-decoration: none;
+}
+.cv-button:hover{
+	color:#80ffdb; 
+	transition: 0.3s;
+}
+
+.profile-icon{
+	color: #000000;
+	margin: 25px 8px;
+	font-size: 1.5rem;
+
+}
+.profile-icon:hover {
+	color:#80ffdb; 
+	transition: 0.3s;
+}
+
+.profile{
+	min-width: 200px;
+	max-width: 200px;
+	
+}
+
+.card-text{
+	margin-left: 35px;
+}
+
